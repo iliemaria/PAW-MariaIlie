@@ -18,6 +18,10 @@ body {
   color: #008dda;
 }
 
+.lni {
+  font-size: 4rem !important;
+}
+
 ul {
   list-style-image: url("https://cdn-icons-png.flaticon.com/256/4549/4549811.png");
   margin-left: 300px;
